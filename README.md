@@ -54,7 +54,7 @@ Run the service client node with
 
 ## Nodes
 
-### ros2_draw_squares_node
+### move_robot_node
 
 Makes robot to draw square using open loop velocity control
 
