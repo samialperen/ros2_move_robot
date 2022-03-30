@@ -8,9 +8,9 @@ This package implements open loop velocity control in ROS2. It contains a class 
 
 ### License
 
-The source code is released under a [MIT license](ros2_move_robot/LICENSE).
+The source code is released under a [MIT license](/LICENSE).
 
-**Author: Sami Alperen Akgun<br />
+**Author: Sami Alperen Akgun**
 
 The PACKAGE NAME package has been tested under [ROS2] Foxy on Ubuntu 20.04.
 This is research code, expect that it changes often and any fitness for a particular purpose is disclaimed.
