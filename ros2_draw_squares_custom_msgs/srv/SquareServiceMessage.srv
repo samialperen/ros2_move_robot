@@ -1,0 +1,4 @@
+float64 square_size     # Determines how big the square will be
+int32 square_number     # The number of times robot executes the square movement
+---
+bool success            # Did robot complete drawing squares?
