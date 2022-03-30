@@ -91,5 +91,5 @@ Makes robot to draw square using open loop velocity control
 
 Please report bugs and request features using the [Issue Tracker](https://github.com/samialperen/ros2_move_robot/issues).
 
-[geometry_msgs/msg/Twist]: (https://docs.ros2.org/foxy/api/geometry_msgs/msg/Twist.html)
+[geometry_msgs/msg/Twist]: https://docs.ros2.org/foxy/api/geometry_msgs/msg/Twist.html
 [ROS2]: https://docs.ros.org/en/foxy/index.html
