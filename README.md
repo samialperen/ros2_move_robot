@@ -68,7 +68,7 @@ Makes robot to draw square using open loop velocity control
 
 #### Services
 
-* **`move_robot_in_square`** ([ros2_draw_squares_custom_msgs/srv/square_service_message.hpp])
+* **`move_robot_in_square`** ([ros2_draw_squares_custom_msgs/srv/square_service_message.hpp](ros2_draw_squares_custom_msgs/srv/SquareServiceMessage.srv))
 
 	Makes robot to draw square
 
